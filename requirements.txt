@@ -1,0 +1,9 @@
+numpy
+six
+tensorflow
+opencv-python
+pyyaml
+pillow
+protobuf
+matplotlib
+lxml
