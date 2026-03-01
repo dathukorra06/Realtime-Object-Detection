@@ -1,10 +1,6 @@
 # Realtime-Object-Detection (Jetson TX2)
-[![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-My Version of [Tensorflows Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).<br />
-<br />
-
-## About the Project
+## About the Project 
 The Idea was to create a realtime capable object detection pipeline on various machines. <br />
 Plug and play, ready to use without deep previous knowledge.<br /> <br />
 The following work has been done based on the original API:
@@ -45,3 +41,4 @@ run **frozenmodel_to_tensorboard.py** and follow the command line instructions <
  <br />
 
  *Pull request and open an issue are very welcome!* :+1:
+ OutPut :- https://drive.google.com/file/d/1aKbUKVPHozm2bh8rdfWehrdueowtzcV4/view?usp=sharing
